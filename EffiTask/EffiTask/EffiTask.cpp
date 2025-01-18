@@ -1,7 +1,7 @@
-﻿#include <iostream>     
-#include <string>       
-#include <vector>       
-#include <windows.h>    
+﻿#include <iostream>
+#include <string>
+#include <vector>
+#include <windows.h>
 using namespace std;
 
 // Структура для хранения информации о задаче
