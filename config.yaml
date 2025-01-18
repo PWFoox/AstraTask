@@ -1,6 +1,6 @@
 application:
   name: "EffiTask"
   version: "0.1.0"
-  version type: "alpha"
+  version type: "ALPHA"
   release date: "19.01.2025"
   description: "Интерактивная система управления задачами"
